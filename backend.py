@@ -47,5 +47,6 @@ def update(id,title,author,year,isbn):
 
 
 connect()
-insert("first book","filan fisteku",1999,9087567)
-print(view())
+#insert("first book","filan fisteku",1999,9087567)
+#print(view())
+
